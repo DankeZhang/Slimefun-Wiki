@@ -13,8 +13,6 @@
 铅锭被用于冶炼以下合金:
 
 * [焊锡锭](/Solder-Ingot)
-* [铝黄铜锭](/Aluminum-Brass-Ingot)
-* [铝青铜锭](/Aluminum-Bronze-Ingot)
 
 以及下列物品的配方:
 
